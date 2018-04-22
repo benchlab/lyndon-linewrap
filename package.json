@@ -1,5 +1,5 @@
 {
-  "name": "@benchlab/linewrap",
+  "name": "lyndon-linewrap",
   "version": "1.0.0",
   "description": "",
   "main": "linewrap.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benchlab/linewrap.git"
+    "url": "git+https://github.com/benchlab/lyndon-linewrap.git"
   },
   "author": ["Jeff Dickey","Block.Network"],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/benchlab/linewrap/issues"
+    "url": "https://github.com/benchlab/lyndon-linewrap/issues"
   },
-  "homepage": "https://github.com/benchlab/linewrap#readme"
+  "homepage": "https://github.com/benchlab/lyndon-linewrap#readme"
 }
